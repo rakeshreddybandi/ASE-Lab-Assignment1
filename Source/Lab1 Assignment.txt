@@ -1,0 +1,1 @@
+Documentation folder contains the UML diagram for Chat Application and Project Analytics Chart.
